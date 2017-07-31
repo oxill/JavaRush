@@ -1,0 +1,6 @@
+*.info
+*.xml
+*.iml
+/JavaRushPlugin.properties
+*.jrtc
+*.class
